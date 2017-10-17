@@ -13,7 +13,11 @@
         {
             "type": "composer",
             "url": "https://packages.drupal.org/8"
-        }
+        },
+        {
+            "type": "git",
+            "url": "https://github.com/Erikdekamps/cheatsheet_theme"
+        },
     ],
     "require": {
         "composer/installers": "^1.2",
